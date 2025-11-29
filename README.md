@@ -1,4 +1,4 @@
-### Relatório Técnico Divertido: Nosso App de Sorteio 🎉
+### Relatório Técnico: Nosso App de Sorteio 🎉
 
 Este é o relatório oficial do nosso **App de Sorteio**, feito com a mágica do **Kotlin** e a super-força do **Jetpack Compose**! 🚀 O objetivo era criar um app que pegasse nomes e, ✨POOF!✨, sorteasse os vencedores, tudo isso com a tela se atualizando sozinha. Simples, rápido e divertido!
 
